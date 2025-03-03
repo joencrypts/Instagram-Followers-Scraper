@@ -7,9 +7,10 @@ import pandas as pd
 import threading
 
 # Instagram Credentials
-USERNAME = "iam.shan.jo"
-PASSWORD = "Gebsill@8989"
-TARGET_PROFILE = "texus_2k25"  # Change to the target account
+USERNAME = "your username"
+PASSWORD = "your pass"
+TARGET_PROFILE = "thetarget profile"  # Change to the target account
+
 
 # Initialize WebDriver
 options = webdriver.ChromeOptions()
