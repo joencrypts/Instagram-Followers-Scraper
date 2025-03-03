@@ -33,7 +33,7 @@ TARGET_PROFILE = "target_account"  # Change this to the account whose followers 
 ### 2. Run the Script
 Execute the script:
 ```bash
-python script.py
+python igs.py
 ```
 
 ### 3. Output
